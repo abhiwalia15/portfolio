@@ -4,7 +4,7 @@ module.exports = {
     'Mrinal Walia is a Data Scientist and Freelance Technical Writer at OpenMined, who loves learning new things and helping tech beginners.',
   siteKeywords:
     'Mrinal Walia, Mrinal, Walia, mrinalwalia, data scientist, data science, content freelancer, technical writer, contract writer, machine learning engineer, artificial intelligence engineer, computer vision engineer, windsor, ontario, uow, university of windsor',
-  siteUrl: 'https://github.com/abhiwalia15/',
+  siteUrl: 'https://github.com/abhiwalia15/portfolio',
   siteLanguage: 'en_US',
   googleAnalyticsID: 'UA-45666519-2',
   googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcg8qQiwpbx9Lk',
